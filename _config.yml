@@ -1,0 +1,14 @@
+layout_spectrum: 0.2168459
+color:
+  saturation: 0.4536858
+  lightness: 0.6453628
+  brandStrength: 0.6075269
+  brandColors:
+    - '#000000'
+    - '#16556B'
+    - '#124265'
+    - '#082C17'
+    - '#0B1939'
+  rhythmicContrast: 0.9940341
+typography_spectrum: 1
+name: TJT Africa
