@@ -1,4 +1,4 @@
-layout_spectrum: 0.2168459
+typography_spectrum: 1
 color:
   saturation: 0.4536858
   lightness: 0.6453628
@@ -10,5 +10,6 @@ color:
     - '#082C17'
     - '#0B1939'
   rhythmicContrast: 0.9940341
-typography_spectrum: 1
+layout_spectrum: 0.2168459
 name: TJT Africa
+description: innovation through technology
